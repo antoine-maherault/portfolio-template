@@ -1,6 +1,6 @@
 let info = {
-  name: "Hrishikesh Paul",
-  logo_name: "paul",
+  name: "Antoine Mahérault",
+  logo_name: "Antoine",
   flat_picture: require("./src/assets/potrait.jpg"),
   config: {
     use_cookies: true,
